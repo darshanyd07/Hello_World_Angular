@@ -40,3 +40,9 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+.angular
+.vscode
+angular.json
+tsc
+karma.conf.js
+tsconfig.app.json
